@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
-    "changelog": "Updated images for 3.130.0, SMF 2.0 support.",
-    "url": "https://www.dropbox.com/s/krighdjyg95s3rm/Offline%20Image%20Pack.framework.zip?dl=1"
+    "version": "2.0.0",
+    "changelog": "## New Features\n- update image pack\n\n## Improvements\n- update images\n\n## BREAKING CHANGES\n- due to [c33605](https://github.com/AnthonyFuller/offline-image-pack/commit/c33605b6919c3fc64753d46d32fcac12ac56e069): update image pack\n\nupdate image pack",
+    "url": "https://github.com/AnthonyFuller/offline-image-pack/releases/latest/download/mod.framework.zip"
 }
